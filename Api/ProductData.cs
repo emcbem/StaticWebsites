@@ -21,22 +21,22 @@ public class ProductData : IProductData
             new Product
             {
                 Id = 10,
-                Name = "Strawberries",
-                Description = "16oz package of fresh organic strawberries",
+                Name = "Beanut Butter",
+                Description = "Slightly Used",
                 Quantity = 1
             },
             new Product
             {
                 Id = 20,
-                Name = "Sliced bread",
-                Description = "Loaf of fresh sliced wheat bread",
-                Quantity = 1
+                Name = "Cookie Butter",
+                Description = "So yummy",
+                Quantity = 0
             },
             new Product
             {
                 Id = 30,
-                Name = "Apples",
-                Description = "Bag of 7 fresh McIntosh apples",
+                Name = "WOWOWOOWOW",
+                Description = "dtryfdgajukAWE",
                 Quantity = 1
             }
         };
